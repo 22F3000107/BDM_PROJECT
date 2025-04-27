@@ -81,10 +81,14 @@ Using a data-driven approach, multiple analyses were conducted on primary sales 
 | 📌 Insight                         | 🖼️ Chart Example                                          |
 |------------------------------------|-----------------------------------------------------------|
 | Sales by Product Category          | ![image](https://github.com/user-attachments/assets/bac3c3a0-9f1b-4bac-8901-db796c533a6a)                         |
-| Pareto Chart of SKU Revenue         | *(Insert Pareto Curve)*                                   |
-| Monthly Sales Trends               | *(Insert Time-Series Line Graph)*                         |
-| Customer Geographic Spread         | *(Insert Geo-Mapping Visualization)*                      |
-| Profit Margin Distribution         | *(Insert Profitability Histogram)*                        |
+| Pareto Chart of SKU Revenue         | ![image](https://github.com/user-attachments/assets/543e20ea-5575-4ed1-b532-8df3053b9cbd)
+                                   |
+| Monthly Sales Trends               | ![image](https://github.com/user-attachments/assets/6203d5af-1155-4aa1-8df0-56d4ddec3696)
+                        |
+| Customer Geographic Spread         | ![image](https://github.com/user-attachments/assets/3ae77786-72f0-4411-aee5-923a1eee2050)
+                      |
+| Profit Margin Distribution         | ![image](https://github.com/user-attachments/assets/02fcc133-4945-4e77-a154-2e7f2df0d611)
+                       |
 
 ---
 
