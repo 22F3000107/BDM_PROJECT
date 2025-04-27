@@ -80,7 +80,8 @@ Using a data-driven approach, multiple analyses were conducted on primary sales 
 
 | 📌 Insight                         | 🖼️ Chart Example                                          |
 |------------------------------------|-----------------------------------------------------------|
-| Sales by Product Category          | *(Insert Categorical Bar Chart)*                          |
+| Sales by Product Category          | *(![image](https://github.com/user-attachments/assets/bac3c3a0-9f1b-4bac-8901-db796c533a6a)
+)*                          |
 | Pareto Chart of SKU Revenue         | *(Insert Pareto Curve)*                                   |
 | Monthly Sales Trends               | *(Insert Time-Series Line Graph)*                         |
 | Customer Geographic Spread         | *(Insert Geo-Mapping Visualization)*                      |
