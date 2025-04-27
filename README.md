@@ -60,7 +60,7 @@ Using a data-driven approach, multiple analyses were conducted on primary sales 
 
 - 📌 **Source**: Primary Data – Collected through digitized sales records and interviews with management.
 - 📊 **Scope**: Machinery sales across Bihar and neighboring regions.
-- 📈 [👈 View Dataset on Google Sheets](#) _(https://colab.research.google.com/drive/1UzTuAu04U4MqMO3av6zrlwW5KVej8j9a?usp=drive_link)_
+- 📈 [👈 View Dataset on Google Sheets](https://docs.google.com/spreadsheets/d/11RMHakPTloxGHFuOjp13UkBXYZO_QL_Y/edit?usp=drive_link&ouid=106121328669130059394&rtpof=true&sd=true)
 
 ---
 
@@ -134,11 +134,13 @@ Using a data-driven approach, multiple analyses were conducted on primary sales 
 
 ## 🧪 License
 
-MIT License – For educational and academic purposes only. 
+MIT License – For educational and academic purposes only. Attribution encouraged 🙏
 
 ---
 
 # 🚀 Turning Data into Business Growth!
+
+
 
 
 
